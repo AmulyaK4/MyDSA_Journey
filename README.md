@@ -5,18 +5,18 @@ This repository is my personal commitment to mastering Data Structures & Algorit
 
 🎯 Goal
 
-Strengthen problem-solving and coding skills.
+1)Strengthen problem-solving and coding skills.
 
-Practice DSA concepts from basics to advanced.
+2)Practice DSA concepts from basics to advanced.
 
-Build consistency by solving problems every day.
+3)Build consistency by solving problems every day.
 
-Document progress transparently until I get placed.
+4)Document progress transparently until I get placed.
 
 🛠️ Tech Stack
 
-Language: Python (Primary) 🐍 | Java (Optional for revision) ☕
+1)Language: Python (Primary) 🐍 | Java (Optional for revision) ☕
 
-Platforms: LeetCode, Codeforces, GeeksforGeeks, HackerRank
+2)Platforms: LeetCode, Codeforces, GeeksforGeeks, HackerRank
 
-Version Control: Git & GitHub
+3)Version Control: Git & GitHub
