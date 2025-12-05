@@ -12,11 +12,11 @@ Output: 10
 Explanation: 10 is the largest element in the array.
 
 Python:
-class Solution:
-  def largestElement(self,nums):
-      largest=nums[0]
-      for num in nums:
-       if num > largest:
-          largest=num
-      return largest
+class solution:
+  def largest element(self,nums):
+    largest = nums[0]
+    for num in nums:
+      if num > largest:
+        largest = num
+     return largest
 
